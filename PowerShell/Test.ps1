@@ -1,1 +1,1 @@
-Get-LocalUser
+Get-Service
